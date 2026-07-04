@@ -26,6 +26,7 @@ Our goal is to:
 - CSS3
 - JavaScript (ES6+)
 - Bootstrap / Tailwind CSS
+- React
 
 ### Backend
 - Node.js
@@ -35,7 +36,7 @@ Our goal is to:
 - MongoDB
 
 ### AI
-- Gemini API
+- Ai model APi
 - Prompt Engineering
 - AI Integration
 
@@ -44,67 +45,32 @@ Our goal is to:
 - GitHub
 - VS Code
 - Postman
-
+  
+## After
+- Python
+- Data Analysis
+- ML
+- DL
+- NLP
+- GenAi
+- Agentic Ai
+- FAST API
 ---
 
 ## 📂 Projects
 
-Projects in this repository may include:
+Projects in this repository may include or Add good projects in Future:
 
+- 🌐 Personal Portfolio Website
+- ✅ Blog Management System
 - 🏨 Hotel Booking Website
 - 🤖 AI Chat Assistant
-- ✨ AI Hotel Description Generator
-- 🔐 Authentication System
-- 📊 Admin Dashboard
-- 🌍 REST APIs
-- 🎯 Mini Projects
-- 📚 Practice Exercises
+- 🤖 AI-Powered SaaS Platform
+- 📂 File Sharing Platform
+- 📱 Social Media Platform
 
 ---
 
-## 📁 Folder Structure
-
-```text
-project/
-│
-├── frontend/
-├── backend/
-├── public/
-├── routes/
-├── controllers/
-├── models/
-├── middleware/
-├── utils/
-├── config/
-├── README.md
-└── package.json
-```
-
----
-
-## 🌱 Currently Learning
-
-- HTML & CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- REST API Development
-- Authentication
-- Git & GitHub
-- AI Integration
-
----
-
-## 🤝 Collaboration Workflow
-
-1. Clone the repository
-2. Create a new branch
-3. Make changes
-4. Commit changes
-5. Push your branch
-6. Create a Pull Request
-7. Review and merge
 
 ---
 
@@ -128,13 +94,6 @@ project/
 
 ---
 
-## ⭐ Support
-
-If you like this repository, please consider giving it a **⭐ Star**.
-
-It motivates us to keep learning and building.
-
----
 
 ## 📜 License
 
@@ -146,6 +105,6 @@ This project is created for **educational and learning purposes**.
 
 ### 🚀 Learn • Build • Collaborate • Grow
 
-Made with ❤️ by **Kuwar Ji Betha** & **Nitu Kumari**
+Made with  by ** 🧑‍💻 Kuwar Ji Betha** & ** 👩‍💻 Nitu Kumari**
 
 </div>

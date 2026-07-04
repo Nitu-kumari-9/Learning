@@ -34,6 +34,7 @@ Our goal is to:
 
 ### Database
 - MongoDB
+- SQL
 
 ### AI
 - Ai model APi

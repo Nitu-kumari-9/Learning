@@ -106,6 +106,6 @@ This project is created for **educational and learning purposes**.
 
 ### 🚀 Learn • Build • Collaborate • Grow
 
-Made with  by ** 🧑‍💻 Kuwar Ji Betha** & ** 👩‍💻 Nitu Kumari**
+Made with  by ** 🧑‍💻 Kuwar Ji Betha ** & ** 👩‍💻 Nitu Kumari**
 
 </div>
